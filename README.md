@@ -1,8 +1,8 @@
 # Game Title
 
-## Описание
+## Description
 
-Добро пожаловать в **Game Title**! Это увлекательная игра, созданная на Python. Следуйте инструкциям ниже, чтобы установить и запустить игру на вашем устройстве.
+Welcome to Game Title! This is an exciting game created in Python. Follow the instructions below to install and run the game on your device.
 
 ## Installation and Setup
 
